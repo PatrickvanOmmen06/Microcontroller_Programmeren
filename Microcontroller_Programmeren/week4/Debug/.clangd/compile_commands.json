@@ -1,0 +1,17 @@
+[
+   {
+      "directory" : "C:/Users/patri/Documenten/School_bestanden/Microcontroller_Programmeren/Microcontroller_Programmeren/week4/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2020/ccs/ccs_base/msp430/include\" -I\"C:/Users/patri/Documenten/School_bestanden/Microcontroller_Programmeren/Microcontroller_Programmeren/week4\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR5969__ -D_MPU_ENABLE -xc",
+      "file"      : "C:/Users/patri/Documenten/School_bestanden/Microcontroller_Programmeren/Microcontroller_Programmeren/week4/msp430fr59xx_1.c"
+   },
+   {
+      "directory" : "C:/Users/patri/Documenten/School_bestanden/Microcontroller_Programmeren/Microcontroller_Programmeren/week4/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2020/ccs/ccs_base/msp430/include\" -I\"C:/Users/patri/Documenten/School_bestanden/Microcontroller_Programmeren/Microcontroller_Programmeren/week4\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR5969__ -D_MPU_ENABLE -xc",
+      "file"      : "C:/Users/patri/Documenten/School_bestanden/Microcontroller_Programmeren/Microcontroller_Programmeren/week4/src/main.c"
+   },
+   {
+      "directory" : "C:/Users/patri/Documenten/School_bestanden/Microcontroller_Programmeren/Microcontroller_Programmeren/week4/Debug",
+      "command"   : "clang++ -I\"C:/ti/ccs2020/ccs/ccs_base/msp430/include\" -I\"C:/Users/patri/Documenten/School_bestanden/Microcontroller_Programmeren/Microcontroller_Programmeren/week4\" -I\"C:/ti/ccs2020/ccs/tools/compiler/ti-cgt-msp430_21.6.1.LTS/include\" -D__MSP430FR5969__ -D_MPU_ENABLE -xc",
+      "file"      : "C:/Users/patri/Documenten/School_bestanden/Microcontroller_Programmeren/Microcontroller_Programmeren/week4/src/gpio_lib.c"
+   }
+]

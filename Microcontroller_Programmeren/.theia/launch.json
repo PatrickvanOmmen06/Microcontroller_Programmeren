@@ -1,0 +1,32 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "week3_ISR",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "week3_ISR",
+                "resourceId": "/week3_ISR"
+            }
+        },
+        {
+            "name": "week3_timerISR",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "week3_timerISR",
+                "resourceId": "/week3_timerISR"
+            }
+        },
+        {
+            "name": "week3_ADC",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "week3_ADC",
+                "resourceId": "/week3_ADC"
+            }
+        }
+    ]
+}
